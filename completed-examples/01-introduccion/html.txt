@@ -1,2 +1,6 @@
-<h1>¡Hola, mundo!</h1>
-<p>Estoy aprendiendo desarrollo web.</p>
+<h1>Mi videojuego favorito</h1>
+
+<p>
+  Me gustan los videojuegos de aventuras
+  porque puedo explorar nuevos mundos.
+</p>
